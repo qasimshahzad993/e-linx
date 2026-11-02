@@ -1,0 +1,361 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 7013>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 1) Tj ET
+BT /F2 22 Tf 0.04 0.12 0.23 rg 1 0 0 1 44 758 Tm (e-Linx Website and Admin Guide) Tj ET
+0.11 0.73 0.93 rg 44 737 95 3 re f
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 728 Tm (User documentation | Updated: 13 October 2026) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 705 Tm (1. About the website) Tj ET
+0.11 0.73 0.93 RG 44 688 m 551 688 l S
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 675 Tm (e-Linx is a technology services and digital products website. Visitors can learn about the company,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 663 Tm (browse services, products, portfolio projects, articles, FAQs, and approved client feedback, and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 651 Tm (submit a contact enquiry or project proposal. Authorized administrators use the admin panel to) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 639 Tm (manage website content and enquiries.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 622 Tm (The active application is built with Laravel 12. The `legacy-php` folder contains files from the) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 610 Tm (former standalone PHP website; those files are not used to run the current Laravel website.) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 587 Tm (2. Public website pages) Tj ET
+0.11 0.73 0.93 RG 44 570 m 551 570 l S
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 557 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 557 Tm (**Home \(`/`\)** Ч services, selected products and projects, recent articles, and links to) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 545 Tm (contact or proposal forms.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 533 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 533 Tm (**About \(`/about`\)** Ч an introduction to e-Linx.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 521 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 521 Tm (**FAQs \(`/faqs`\)** Ч published answers to common questions, with structured data for search) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 509 Tm (engines.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 497 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 497 Tm (**Services \(`/services`\)** Ч active services grouped under Digital Marketing, Website) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 485 Tm (Solutions, Mystery Shopping, and AI Solutions. Each service has its own detail page and a) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 473 Tm (preselected proposal form.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 461 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 461 Tm (**Courses \(`/courses`\)** Ч published digital skills training outlines and course enquiry) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 449 Tm (forms.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 437 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 437 Tm (**Products \(`/products`\)** Ч a product catalog with search/category controls and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 425 Tm (product-related enquiries.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 413 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 413 Tm (**Portfolio \(`/portfolio`\)** Ч published project entries and their optional detailed case) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 401 Tm (studies.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 389 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 389 Tm (**Blog \(`/blog`\)** Ч published articles; each article has its own page.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 377 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 377 Tm (**Contact \(`/contact`\)** Ч a general enquiry form.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 365 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 365 Tm (**Request a proposal \(`/quote`\)** Ч a project enquiry form that collects scope and planning) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 353 Tm (details.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 341 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 341 Tm (**`/robots.txt` and `/sitemap.xml`** Ч generated files for search engines. Their absolute) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 329 Tm (URLs depend on the `APP_URL` setting.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 312 Tm (Contact, proposal, and course enquiries are saved to the database and appear in the admin lead) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 300 Tm (inbox. Mystery Shopping and AI proposals include optional service-specific scope fields. Email) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 288 Tm (notifications require a working mail configuration; see the deployment checklist before relying on) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 276 Tm (email delivery.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 259 Tm (The site footer also has an opt-in newsletter form. Subscribers and their personal unsubscribe links) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 247 Tm (are managed in the admin Newsletter section. Newsletter messages are not sent automatically: use the) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 235 Tm (opted-in addresses for manual updates and include each subscriber's unsubscribe link. The form only) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 223 Tm (subscribes an address after the visitor explicitly checks the consent box.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 206 Tm (Social icons are also shown in the footer. Their current Facebook, Instagram, LinkedIn, and YouTube) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 194 Tm (links are demo links to each platform's home page. Replace `SOCIAL_FACEBOOK_URL`,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 182 Tm (`SOCIAL_INSTAGRAM_URL`, `SOCIAL_LINKEDIN_URL`, and `SOCIAL_YOUTUBE_URL` in `.env` with e-Linx's) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 170 Tm (official profile URLs before deployment.) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 147 Tm (3. Run the website locally \(Windows / XAMPP\)) Tj ET
+0.11 0.73 0.93 RG 44 130 m 551 130 l S
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 117 Tm (1.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 117 Tm (Start Apache and MySQL in XAMPP.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 105 Tm (2.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 105 Tm (Open a terminal in `C:\\xampp\\htdocs\\e-linx`.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 93 Tm (3.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 93 Tm (For a first-time setup, install Composer dependencies and create the environment file:) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2928>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 2) Tj ET
+0.94 0.96 0.98 rg 44 755 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 758 Tm (cd C:\\xampp\\htdocs\\e-linx) Tj ET
+0.94 0.96 0.98 rg 44 741 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 744 Tm (composer install) Tj ET
+0.94 0.96 0.98 rg 44 727 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 730 Tm (Copy-Item .env.example .env) Tj ET
+0.94 0.96 0.98 rg 44 713 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 716 Tm (php artisan key:generate) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 693 Tm (4.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 693 Tm (Set the MySQL connection in `.env`: `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 681 Tm (`DB_PASSWORD`.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 669 Tm (5.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 669 Tm (Set `ADMIN_NAME`, `ADMIN_EMAIL`, and a unique `ADMIN_PASSWORD` in `.env` for the first) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 657 Tm (admin account. The password must be at least 12 characters long.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 645 Tm (6.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 645 Tm (Create the database tables and initial admin:) Tj ET
+0.94 0.96 0.98 rg 44 621 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 624 Tm (php artisan migrate --seed) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 601 Tm (7.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 601 Tm (Start the Laravel development server:) Tj ET
+0.94 0.96 0.98 rg 44 577 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 580 Tm (php artisan serve) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 557 Tm (8.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 557 Tm (Open the URL printed in the terminal, usually `http://127.0.0.1:8000`. The admin login is) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 545 Tm (at `http://127.0.0.1:8000/admin/login`.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 528 Tm (To display blog cover images uploaded through the admin panel, create Laravel's public storage link:) Tj ET
+0.94 0.96 0.98 rg 44 504 507 13 re f
+BT /F3 8 Tf 0.10 0.22 0.34 rg 1 0 0 1 52 507 Tm (php artisan storage:link) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 484 Tm (The `ADMIN_PASSWORD` setting is used by the seeder only when creating the first admin. If an admin) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 472 Tm (already exists, the seeder does not replace that account. Never share or commit `.env`.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 6739>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 3) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 752 Tm (4. Admin sign-in and sign-out) Tj ET
+0.11 0.73 0.93 RG 44 735 m 551 735 l S
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 722 Tm (1.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 722 Tm (Open `/admin/login`.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 710 Tm (2.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 710 Tm (Enter the admin email address or admin name and password, then select **Sign in to) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 698 Tm (dashboard**.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 686 Tm (3.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 686 Tm (Use the dashboard sidebar to open Leads, Newsletter, Services, Products, Portfolio,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 674 Tm (Courses, FAQs, Testimonials, or Blog.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 662 Tm (4.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 662 Tm (Open the profile menu to edit your profile or change your password.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 650 Tm (5.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 650 Tm (To sign out, use **Log out** in the profile dropdown or sidebar. Your session is cleared) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 59.6 638 Tm (and a confirmation appears on the login page.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 621 Tm (Admin pages require an authenticated session. Login attempts are rate-limited. Changing a password) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 609 Tm (requires the current password. The new password must be at least 12 characters and include uppercase) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 597 Tm (and lowercase letters, a number, and a symbol. There is no automated password-reset screen; contact) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 585 Tm (the hosting/database administrator if the password is lost.) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 562 Tm (5. Dashboard and routine tasks) Tj ET
+0.11 0.73 0.93 RG 44 545 m 551 545 l S
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 532 Tm (Leads and enquiries) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 513 Tm (Enquiries submitted through the contact form and proposal requests appear in the Leads inbox. A) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 501 Tm (record includes contact details, the message, enquiry type, and status. A proposal may also include) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 489 Tm (the company and project names, requested service and features, project stage, timeline, budget,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 477 Tm (target audience, and a reference link.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 460 Tm (Each lead can be marked `New`, `Contacted`, or `Closed`, or deleted when it is no longer needed.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 448 Tm (Restrict access to the lead inbox to authorized staff because it contains personal and project) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 436 Tm (information.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 419 Tm (Newsletter subscribers) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 400 Tm (Open Newsletter in the admin sidebar to view subscribed and unsubscribed addresses. Include each) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 388 Tm (subscriber's personal unsubscribe link in manually sent updates. Remove an address from the records) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 376 Tm (if it should no longer be retained. Newsletter updates are sent manually; sign-up does not trigger) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 364 Tm (automatic email delivery.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 347 Tm (Services, products, and portfolio) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 328 Tm (Open the relevant section in the admin sidebar to add, update, or delete an item. For services,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 316 Tm (choose a navigation category; it controls both the public dropdown and the grouped services page.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 304 Tm (Only active or published items appear on the public website. Check service ordering and descriptions) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 292 Tm (before saving. New Mystery Shopping and AI service outlines are enquiry starting points: confirm) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 280 Tm (capability, required approvals, safeguards, schedule, and scope with the customer before agreeing to) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 268 Tm (deliver them. Product photographs are illustrative stock images, not screenshots of actual e-Linx) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 256 Tm (software.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 239 Tm (Portfolio entries support optional challenge, approach, and outcome case study sections. Add only) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 227 Tm (owner-approved, verifiable details. The database migration adds these fields without replacing) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 215 Tm (project records.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 198 Tm (FAQs and testimonials) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 179 Tm (Use FAQs in the admin sidebar to add, edit, reorder, publish, or hide answers. Published FAQs appear) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 167 Tm (on the homepage and `/faqs`; the page emits FAQ structured data for search engines. Default FAQ) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 155 Tm (entries are added by `php artisan db:seed` and can be edited or removed.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 138 Tm (Use Testimonials to manage customer feedback. New testimonials are hidden until published. Only) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 126 Tm (publish accurate customer quotes, names, roles, organizations, and service references when you have) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 114 Tm (permission to share them. No sample customer reviews or logos are included.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 97 Tm (Courses and training) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 78 Tm (Use Courses in the admin sidebar to maintain course summaries, descriptions, curriculum, duration,) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 3894>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 4) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 758 Tm (delivery mode, and pricing. Starter outlines are drafts. Verify actual availability, delivery) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 746 Tm (details, and price before publishing. Course enquiries are saved as course leads in the Leads inbox) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 734 Tm (and use the configured contact-email notification.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 717 Tm (Blog) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 698 Tm (In the blog editor, enter a title, category, excerpt, body, author, and optional cover image. A) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 686 Tm (`Draft` article is not public. A `Published` article appears on the public blog; if its publish date) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 674 Tm (is in the future, it remains hidden until then. Cover images may be JPG, PNG, or WebP and must be no) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 662 Tm (larger than 5 MB. Add alternative text to describe an image for accessibility.) Tj ET
+BT /F2 10 Tf 0.05 0.27 0.42 rg 1 0 0 1 44 645 Tm (Profile) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 626 Tm (The profile section lets an administrator update their name and email address or change their) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 614 Tm (password. Do not share account credentials with unauthorized people.) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 591 Tm (6. Forms and stored data) Tj ET
+0.11 0.73 0.93 RG 44 574 m 551 574 l S
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 561 Tm (The contact form requires a name and valid email address; phone number and subject are optional. The) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 549 Tm (proposal form asks for the requested service, message, project stage, timeline, and budget;) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 537 Tm (additional project details are optional. Mystery Shopping requests can record locations,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 525 Tm (touchpoints, and frequency. AI requests can record the workflow, systems, and human review) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 513 Tm (requirements. The server validates submissions, and form requests are rate-limited.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 496 Tm (Form data and newsletter email addresses are stored in the database. Newsletter sign-up requires) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 484 Tm (explicit consent and each subscriber has a personal unsubscribe link. Lead email notifications and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 472 Tm (the public contact email use `MAIL_ADMIN_ADDRESS`; the current business contact address is) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 460 Tm (`adminelinx@gmail.com`. Configure and test production SMTP delivery before launch. Before launch,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 448 Tm (the business should review its privacy notice, data retention period, access rules, and contact) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 436 Tm (details. The floating WhatsApp button, contact page, and homepage consultation link use) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 424 Tm (`WHATSAPP_NUMBER`, currently set to the supplied e-Linx number `923037004442` \(international digits) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 412 Tm (without `+`, spaces, or punctuation\). Leave it blank to hide the WhatsApp links.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 3058>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 5) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 752 Tm (7. Troubleshooting) Tj ET
+0.11 0.73 0.93 RG 44 735 m 551 735 l S
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 722 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 722 Tm (**Database connection error:** Check the `.env` `DB_*` values and make sure the XAMPP MySQL) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 710 Tm (service is running.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 698 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 698 Tm (**Admin login fails:** Check the email/name and password. For a fresh database, set) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 686 Tm (`ADMIN_EMAIL` and a strong `ADMIN_PASSWORD`, then run `php artisan migrate --seed`.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 674 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 674 Tm (**Seeder does not update an existing admin:** This is intentional. Manage existing admin) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 662 Tm (credentials from profile/password settings.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 650 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 650 Tm (**Blog cover image is missing:** Run `php artisan storage:link` and verify that) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 638 Tm (`storage/app/public` is writable.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 626 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 626 Tm (**CSS changes are not visible:** Hard-refresh the browser; asset URLs may use a version query) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 614 Tm (string.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 602 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 602 Tm (**No contact email arrived:** Check that `MAIL_ADMIN_ADDRESS` is `adminelinx@gmail.com`,) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 590 Tm (verify the production mail credentials and sender authorization, then clear cached) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 578 Tm (configuration. The enquiry remains in the admin Leads inbox if delivery fails.) Tj ET
+BT /F2 9 Tf 0.03 0.52 0.70 rg 1 0 0 1 44 566 Tm (-) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 566 Tm (**Sitemap has the wrong domain:** Correct `APP_URL` in `.env` and refresh the configuration) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 54.4 554 Tm (cache.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 537 Tm (Application logs are in `storage/logs`. For production issues, back up the database and uploads) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 525 Tm (first. Do not run `migrate:fresh` on a production database.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 3359>>
+stream
+0.035 0.055 0.095 rg 0 782 595 60 re f
+0.11 0.73 0.93 rg 0 782 6 60 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 44 813 Tm (e-LINX TECHNOLOGY) Tj ET
+BT /F1 8 Tf 0.72 0.80 0.89 rg 1 0 0 1 44 796 Tm (Website and Admin User Documentation) Tj ET
+0.84 0.88 0.92 RG 44 43 m 551 43 l S
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 44 27 Tm (e-Linx | Updated 12 October 2026) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.54 rg 1 0 0 1 515 27 Tm (Page 6) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 752 Tm (8. Technical and production notes) Tj ET
+0.11 0.73 0.93 RG 44 735 m 551 735 l S
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 722 Tm (The application requires PHP 8.2 or later and Laravel 12. Composer manages PHP dependencies. The web) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 710 Tm (document root must be `C:\\xampp\\htdocs\\e-linx\\public`, not the project root.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 693 Tm (Before production use, configure HTTPS, `APP_DEBUG=false`, secure session cookies, a unique) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 681 Tm (`APP_KEY`, a protected `.env`, restricted database credentials, writable `storage` and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 669 Tm (`bootstrap/cache` directories, database backups, and a tested restore process.) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 652 Tm (The public frontend loads fonts and some libraries from third-party CDNs. Production network and) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 640 Tm (Content Security Policy settings must allow those hosts, or the assets should be hosted locally. The) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 628 Tm (legacy SQL dump at `legacy-php/database/elinx_db.sql` drops and recreates tables; back up any) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 616 Tm (database before importing it.) Tj ET
+BT /F2 13 Tf 0.04 0.20 0.35 rg 1 0 0 1 44 593 Tm (9. Important URLs) Tj ET
+0.11 0.73 0.93 RG 44 576 m 551 576 l S
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 563 Tm (Task  -  URL) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 551 Tm (Public website  -  `/`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 539 Tm (FAQs  -  `/faqs`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 527 Tm (Courses  -  `/courses`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 515 Tm (Contact form  -  `/contact`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 503 Tm (Proposal form  -  `/quote`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 491 Tm (Admin sign-in  -  `/admin/login`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 479 Tm (Admin dashboard  -  `/admin`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 467 Tm (Admin leads  -  `/admin/leads`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 455 Tm (Admin blog  -  `/admin/blog`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 443 Tm (Admin FAQs  -  `/admin/trust/faqs`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 431 Tm (Admin testimonials  -  `/admin/trust/testimonials`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 419 Tm (Admin courses  -  `/admin/courses`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 407 Tm (Sitemap  -  `/sitemap.xml`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 395 Tm (Robots rules  -  `/robots.txt`) Tj ET
+BT /F1 9 Tf 0.10 0.15 0.22 rg 1 0 0 1 44 378 Tm (Support: Contact your authorized website or hosting administrator for application or hosting issues.) Tj ET
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000155 00000 n 
+0000000252 00000 n 
+0000000354 00000 n 
+0000000449 00000 n 
+0000000595 00000 n 
+0000007658 00000 n 
+0000007804 00000 n 
+0000010782 00000 n 
+0000010930 00000 n 
+0000017720 00000 n 
+0000017868 00000 n 
+0000021813 00000 n 
+0000021961 00000 n 
+0000025070 00000 n 
+0000025218 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+28628
+%%EOF

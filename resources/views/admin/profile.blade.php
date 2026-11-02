@@ -1,0 +1,9 @@
+@extends('layouts.admin')
+@section('title', 'My profile')
+@section('content')
+<div class="page-head"><div><h1>My profile</h1><p>Your account details and password.</p></div></div>
+<div class="grid-2" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+    <section class="card"><h2>Account details</h2><form method="post" action="{{ route('admin.profile.update') }}">@csrf @method('PUT')<div class="field"><label for="name">Full name</label><input class="input" id="name" name="name" required maxlength="120" value="{{ old('name', $admin->name) }}"></div><div class="field"><label for="email">Email</label><input class="input" id="email" name="email" type="email" required maxlength="190" value="{{ old('email', $admin->email) }}"></div><button class="btn btn-primary" type="submit">Save changes</button></form></section>
+    <section class="card" id="password"><h2>Change password</h2><form method="post" action="{{ route('admin.password.update') }}" autocomplete="off">@csrf @method('PUT')<div class="field"><label for="current">Current password</label><input class="input" id="current" name="current" type="password" required maxlength="255" autocomplete="current-password"></div><div class="field"><label for="new">New password</label><input class="input" id="new" name="new" type="password" minlength="12" maxlength="255" required autocomplete="new-password"><div class="hint">At least 12 characters, with uppercase and lowercase letters, a number, and a symbol.</div></div><div class="field"><label for="new_confirmation">Confirm new password</label><input class="input" id="new_confirmation" name="new_confirmation" type="password" minlength="12" maxlength="255" required autocomplete="new-password"></div><button class="btn btn-primary" type="submit">Update password</button></form></section>
+</div>
+@endsection

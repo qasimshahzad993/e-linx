@@ -1,0 +1,23 @@
+NEW ADMIN PAGE (copy-paste this skeleton)
+-----------------------------------------
+<?php
+require_once 'includes/functions.php';
+require_admin();
+require_once '../config.php';
+
+// ... your PHP logic. To show a toast after an action:
+// flash('success', 'Saved.'); redirect('mypage.php');
+
+$pageTitle  = 'Leads';       // shown in the browser tab + breadcrumb
+$activePage = 'leads';       // must match a key in $nav (includes/layout_top.php)
+require_once 'includes/layout_top.php';
+?>
+
+<div class="page-head"><div><h1>Leads</h1></div></div>
+<section class="card"> ...your content... </section>
+
+<?php require_once 'includes/layout_bottom.php'; ?>
+
+ADD A SIDEBAR LINK: add one line to $nav in includes/layout_top.php
+CONFIRM BEFORE DELETE: add data-confirm="Delete this?" to the <form>
+TOAST FROM JAVASCRIPT: Toast.show('success' | 'error' | 'warning' | 'info', 'Message');
