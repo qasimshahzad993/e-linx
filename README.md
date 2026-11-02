@@ -25,6 +25,21 @@ php docs\generate-pdf.php docs\e-linx-website-guide.md docs\e-linx-website-guide
 
 Composer dependencies are included in `vendor/`. To restore them if needed, run `composer install` from the project root. Laravel reads settings from the root `.env`; do not commit that file.
 
+## GitHub Pages frontend preview
+
+GitHub Pages cannot run Laravel, PHP, MySQL, or the admin backend. This repository includes a static HTML export of the published public pages so the frontend can display on GitHub Pages. Contact, quote, newsletter, chatbot, and admin actions need a live Laravel host and are unavailable on this static preview.
+
+To refresh the preview after changing public content, run the site locally with its database and published content, then export its public sitemap pages:
+
+```powershell
+# In a second terminal, with the local site already running:
+$env:STATIC_EXPORT_ORIGIN = "http://127.0.0.1:8000"
+$env:GITHUB_PAGES_BASE_URL = "https://qasimshahzad993.github.io/e-linx"
+php scripts\export-github-pages.php
+```
+
+Commit and push the generated HTML, `.nojekyll`, and any referenced public blog images to the `main` branch. GitHub Pages then serves `index.html` instead of rendering this README as the homepage.
+
 ## Database
 
 Configure the MySQL connection in `.env` and run `php artisan migrate --seed`. The migration preserves existing e-Linx tables and records; the admin seeder does not replace an existing administrator. For a fresh database, configure `ADMIN_EMAIL` and a unique `ADMIN_PASSWORD` of at least 12 characters in `.env` first.
